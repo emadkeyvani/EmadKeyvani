@@ -1,3 +1,5 @@
+<img align="center" alt="wallpaper" src="https://github.com/emadkeyvani/EmadKeyvani/blob/main/CoverLinkdin.jpg"/>
+
 - 👋 Hi, I’m @EmadKeyvani
 - 👀 I’m interested in kotlin 
 - 🌱 I’m currently learning how to think in a good way
